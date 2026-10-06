@@ -1,0 +1,1 @@
+console.log("WakeUp website loaded successfully!");
