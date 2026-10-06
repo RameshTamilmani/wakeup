@@ -1,1 +1,1 @@
-console.log("WakeUp website loaded successfully!");
+console.log("Subam Bed House & Furnitures website loaded successfully.");
